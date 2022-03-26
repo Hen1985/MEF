@@ -4,3 +4,7 @@ Los modelos estadísticos son ejes fundamentales para el desarrollo de la invest
 
 Para desarroll las habilidades del primer encuentro se ler recomienda ver  las caracteristicas de siguiente marco de datos 
 predeterminado de los clientes de tarjetas de crédito  https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients#
+
+Recomendaciones sobre lectura 
+
+https://drive.google.com/file/d/1Zk2YkDVoItnu-FRrujD-32bswDRb1Qg7/view?usp=sharing
